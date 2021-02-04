@@ -22,7 +22,7 @@
 #### I'm Lam, an artist and software dev from Anor Londo. Follow my journey as I complete the Great Work and exploit the intersection of Technology, Art and Finance.
 
 
-### 🏠 [Personal Website](https://twitter.com/LamSlimenstein)
+### *love you all*
 
 * Twitter: [@LamSlimenstein](https://twitter.com/LamSlimenstein)
 * Github: [@LamSlimenstein](https://github.com/LamSlimenstein)

@@ -21,7 +21,7 @@
 #### I'm Lam, an artist and software dev from Anor Londo. Follow my journey as I complete the Great Work and exploit the intersection of Technology, Art and Finance.
 
 
-### [Personal Website and Portfolio](LamSlimenstein.github.io)
+### [Personal Website and Portfolio](https://LamSlimenstein.github.io)
 
 
 *be my Slime? <3*

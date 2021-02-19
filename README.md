@@ -7,7 +7,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-no-yellowgreen.svg" />
   </a>
   <a href="https://twitter.com/lamslimenstein" target="_blank">
-    <img alt="Twitter: LamSlimenstein" src="https://raw.githubusercontent.com/LamSlimenstein/Portfolio/main/Work/splashMountainZiggurath.png/>
+    <img alt="Twitter: LamSlimenstein" src="https://raw.githubusercontent.com/LamSlimenstein/Portfolio/main/Work/gen2-01.png/>
   </a>
 </div>
 
